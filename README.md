@@ -4,4 +4,4 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=Hi%2C+I+am+Fluffy.;A+discord+bot+%26+web+developer.)](https://git.io/typing-svg)
 
-Hey! I am a tea-loving, mostly frontend developer working on websites and discord bots. In my free time, I love drawing in a simple style. I also own a small stationery business called mrchvy!
+Hey! I am a tea-loving, mostly frontend developer working on websites and games.
