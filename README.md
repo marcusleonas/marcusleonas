@@ -5,3 +5,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&lines=Hi%2C+I+am+Fluffy.;A+discord+bot+%26+web+developer.)](https://git.io/typing-svg)
 
 Hey! I am a tea-loving, mostly frontend developer working on websites and games.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,bootstrap,ps,md,nodejs,pr,visualstudio,vscode,wordpress)](https://skillicons.dev)
