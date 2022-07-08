@@ -1,7 +1,8 @@
 # Art, Web, Bots.
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/flvffywvffy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_9YLDuDjMrxFHcwIoWtBnA) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/flvffywvffy) [![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://bmc.xyz/flvffy)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=I'm+flvffywvffy;A+tea-loving+web+developer.)](https://git.io/typing-svg)
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/854782372834443305?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/854782372834443305)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/854782372834443305)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/854782372834443305)]
 
 Hey! I am a tea-loving, mostly frontend developer working on websites and games.
 
