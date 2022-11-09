@@ -1,5 +1,17 @@
-# Art, Web, Music.
+# 🐱 flvffywvffy
 
 Hey! I am a tea-loving, frontend developer.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,bootstrap,ps,pr,md,nodejs,visualstudio,vscode,wordpress)](https://skillicons.dev)
+---
+## 🧰 Languages and Tools
+<!-- Skills & Tools -->
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<br /><br/>
+
+# 
+
+## Latest youtube videos
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
