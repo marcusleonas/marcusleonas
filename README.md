@@ -1,6 +1,6 @@
 # 🐱 Marcus
 
-Hey! I am a tea-loving, frontend developer.
+Frontend & Roblox Developer (mainly scss & roblox-ts)
 
 ---
 ## 🧰 Languages and Tools
