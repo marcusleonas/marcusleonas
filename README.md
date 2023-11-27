@@ -1,6 +1,6 @@
 # 🐱 Marcus
 
-Frontend Dev, Roblox Dev & Creator of [roproject.xyz](https://github.com/roproject-xyz/roproject.xyz)
+Frontend Dev, Roblox Dev
 
 ---
 ## 🧰 Languages and Tools
