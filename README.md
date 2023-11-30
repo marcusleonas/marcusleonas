@@ -1,6 +1,5 @@
 # 🐱 Marcus
-
-Frontend Dev, Roblox Dev
+Fullstack Web & Roblox Developer.
 
 ---
 ## 🧰 Languages and Tools
