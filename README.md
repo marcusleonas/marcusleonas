@@ -16,4 +16,5 @@ Fullstack Web & Roblox Developer.
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-04ACD7?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-366E9F?style=for-the-badge&logo=python&logoColor=white" />
 </p>
