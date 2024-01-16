@@ -7,7 +7,7 @@ Fullstack Web & Roblox Developer.
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-Astro-FF5E00?style=for-the-badge&logo=astro&logoColor=white" />
+  <img alt="astro" src="https://img.shields.io/badge/-Astro-FF5E00?style=for-the-badge&logo=astro&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind CSS-10A5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
