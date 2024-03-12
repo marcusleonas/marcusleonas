@@ -7,9 +7,11 @@ Fullstack Web & Roblox Developer.
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="astro" src="https://img.shields.io/badge/-Astro-FF5E00?style=for-the-badge&logo=astro&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind CSS-10A5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
