@@ -31,4 +31,5 @@ Fullstack Web Developer.
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="Bun" src="https://img.shields.io/badge/-Bun-14151A?style=for-the-badge&logo=Bun&logoColor=white" />
 </p>
