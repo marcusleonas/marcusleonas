@@ -12,7 +12,7 @@ Fullstack Web Developer.
   <img alt="shadcn/ui" src="https://img.shields.io/badge/-shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </p>
 
-## Frameworks
+### Frameworks
 <p>
   <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="astro" src="https://img.shields.io/badge/-Astro-FF5E00?style=for-the-badge&logo=astro&logoColor=white" />
