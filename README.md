@@ -6,7 +6,7 @@ Pretending to be a developer. I mostly write typescript with a sprinkle of go he
 ## Languages
 ![Typescript](https://img.shields.io/badge/Typescript-%232182E2?style=for-the-badge&logo=typescript&logoColor=%23fff)
 ![Golang](https://img.shields.io/badge/Golang-%2300AED8?style=for-the-badge&logo=go&logoColor=%23fff)
-![Lua](https://img.shields.io/badge/Lua-%232E70A7?style=for-the-badge&logo=lua&logoColor=%050080)
+![Lua](https://img.shields.io/badge/Lua-%050080?style=for-the-badge&logo=lua&logoColor=%23fff)
 ![Python](https://img.shields.io/badge/Python-%232E70A7?style=for-the-badge&logo=python&logoColor=%23fff)
 
 ### Learning
