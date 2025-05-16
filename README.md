@@ -8,7 +8,7 @@ Pretending to be a developer. I mostly write typescript with a sprinkle of go he
 ![Python](https://img.shields.io/badge/Python-%232E70A7?style=for-the-badge&logo=python&logoColor=%23fff)
 
 ### Learning
-![Elixir](https://img.shields.io/badge/Elixir-%237B60AC?style=for-the-badge&logo=elixir&logoColor=%23fff)
+![Java](https://img.shields.io/badge/Java-%234386A8?style=for-the-badge)
 
 ## Frameworks
 ![Next.JS](https://img.shields.io/badge/Next%20JS-%23000?style=for-the-badge&logo=nextdotjs&logoColor=%23fff)
